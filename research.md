@@ -4,69 +4,68 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
+    - title:   "Understanding the Mirai Botnet"
+      author:  "Manos Antonakakis, Tim April, Michael Bailey, Matt Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric, J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, <b> Zane Ma* </b>, Joshua Mason, Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, Yi Zhou"
+      conference: "USENIX Security"
+      year:    "2017"
+      url:     "/papers/usenix17_mirai.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/usenix17_mirai.bib"
+        - name: "slides"
+          url:  "/slides/mirai.pdf"
+        - name: "talk"
+          url:  "https://www.youtube.com/watch?v=1pywzRTJDaY"
+
+    - title:   "The Security Impact of HTTPS Interception"
+      author:  "Zakir Durumeric, **Zane Ma**, Drew Springall, Richard Barnes, Nick Sullivan, Elie Bursztein, Michael Bailey, J. Alex Halderman, Vern Paxson"
+      conference: "Network and Distributed System Security Symposium (NDSS)"
+      year:    "2017"
+      url:     "/papers/ndss17_interception.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/ndss17_interception.bib"
+
+    - title:   "Security Challenges in an Increasingly Tangled Web"
+      author:  "Deepak Kumar, **Zane Ma**, Zakir Durumeric, Ariana Mirian, Joshua Mason, Michael Bailey, J. Alex Halderman"
+      conference: "World Wide Web (WWW)"
+      year:    "2017"
+      url:     "/papers/www17_tangled.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/www17_tangled.bib"
+
+    - title:   "An Internet-wide View of ICS devices"
+      author:  "Ariana Mirian, **Zane Ma**, David Adrian, Matthew Tischer, Thasphon Chuenchujit, Tim Yardley, Robin Berthier, Josh Mason, Zakir Durumeric, J. Alex Halderman, Michael Bailey"
+      conference: "Privacy, Security and Trust (PST)"
       year:    "2016"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      url:     "/papers/pst16_ics.pdf"
       media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+        - name: "bib"
+          url:  "/papers/pst16_ics.bib"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2015"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+talks:
+    - title: "Mirai and the Future of IoT Botnets"
+      url: ""
+      conference: "Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG)"
+      location: "San Francisco, CA"
+      date: "2018-02-21"
       media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2014"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+        - name: "slides"
+          url:  "#"
+    - title: "Understanding the Mirai Botnet"
+      date: "2017-11-08"
+      conference: "Security Seminar"
+      location: "University of Chicago, IL"
       media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2013"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2012"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
-
+        - name: "slides"
+          url:  "/slides/uchicago_mirai.pdf"
+    
 ---
 
-## Publications (peer reviewed)
+### Publications
+
+[Google Scholar](https://scholar.google.com/citations?user=Qoy6za0AAAAJ&hl=en){:target="_blank"}
 
 {% assign thumbnail="left" %}
 
@@ -75,10 +74,19 @@ pubs:
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
 [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+*{{pub.conference}}* *{{pub.year}}*
+{% if pub.media %}&nbsp;{% for article in pub.media %}[[{{article.name}}]({{article.url}}){:target="_blank"}]{% endfor %}{% endif %}<br />
 {{pub.author}}<br />
-*{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+{% endif %}
+{% endfor %}
 
+<i>* denotes primary/first author</i>
+
+
+### Invited Talks
+
+{% for talk in page.talks %}
+**{{talk.date}}**&nbsp;&nbsp;&nbsp;"{{talk.title}}." *{{talk.conference}}*. {{talk.location}}.
+{% if talk.media %}&nbsp;{% for article in talk.media %}[[{{article.name}}]({{article.url}}){:target="_blank"}]{% endfor %}{% endif %}
 {% endfor %}

@@ -4,17 +4,26 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I'm Zane, a 3rd year PhD student in the Computer Science department 
+at the University of Illinois, Urbana-Champaign. 
+
+I am advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}
+as a member of the
+[Network & Security Research Group](http://nsrg.ece.illinois.edu/){:target="_blank"}. 
+
+My [research](/research/) focuses on 1) the security
+impact of IoT & ICS devices on the Internet and 2) the
+complex trust relationships between network entities. I am
+currently working on understanding and establishing **trust** 
+as a first-class property in secure networked systems.
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+445 Coordinated Science Laboratory <br />
+1308 West Main St.<br />
+Urbana, IL 61801 <br />
+Email: [zanema2@illinois.edu]
 
-
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[zanema2@illinois.edu]: mailto:zanema2@illinois.edu
