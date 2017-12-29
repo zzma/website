@@ -50,9 +50,7 @@ talks:
       conference: "Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG)"
       location: "San Francisco, CA"
       date: "2018-02-21"
-      media:
-        - name: "slides"
-          url:  "#"
+
     - title: "Understanding the Mirai Botnet"
       date: "2017-11-08"
       conference: "Security Seminar"
