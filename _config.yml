@@ -18,20 +18,20 @@ highlighter: rouge
 #
 analytics:
     provider:
-    statcounter:
-        sc_project  :
-        sc_security :
-        sc_invisible: 1
-        sc_text     : 2
+    # statcounter:
+    #     sc_project  :
+    #     sc_security :
+    #     sc_invisible: 1
+    #     sc_text     : 2
     google:
-        tracking_id: ''
-    getclicky:
-      site_id:
-    mixpanel:
-        token: ''
-    piwik:
-        baseURL: '' # Piwik installation address (without protocol)
-        idsite: ''  # the id of the site on Piwik
+        tracking_id: 'UA-102239201-1'
+    # getclicky:
+    #   site_id:
+    # mixpanel:
+    #     token: ''
+    # piwik:
+    #     baseURL: '' # Piwik installation address (without protocol)
+    #     idsite: ''  # the id of the site on Piwik
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
