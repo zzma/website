@@ -4,6 +4,11 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Measuring Ethereum's Peer-to-Peer Network"
+      author:  "Seoung Kim, **Zane Ma**, Siddharth Murali, Joshua Mason, Andrew Miller, Michael Bailey"
+      conference: "IMC"
+      year:    "2018"
+
     - title:   "Understanding the Mirai Botnet"
       author:  "Manos Antonakakis, Tim April, Michael Bailey, Matt Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric, J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, <b> Zane Ma* </b>, Joshua Mason, Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, Yi Zhou"
       conference: "USENIX Security"
@@ -49,7 +54,7 @@ talks:
       url: ""
       conference: "Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG)"
       location: "San Francisco, CA"
-      date: "2018-02-21"
+      date: "2018-02-20"
 
     - title: "Understanding the Mirai Botnet"
       date: "2017-11-08"
