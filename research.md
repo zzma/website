@@ -52,9 +52,12 @@ pubs:
 talks:
     - title: "Mirai and the Future of IoT Botnets"
       url: ""
-      conference: "Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG)"
+      conference: "Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG): 42nd General Meeting"
       location: "San Francisco, CA"
       date: "2018-02-20"
+	  media: 
+	  	- name: "slides"
+		  url: "/slides/m3aawg_mirai.pdf"
 
     - title: "Understanding the Mirai Botnet"
       date: "2017-11-08"
