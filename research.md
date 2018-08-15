@@ -6,7 +6,7 @@ pubs:
 
     - title:   "Measuring Ethereum's Peer-to-Peer Network"
       author:  "Seoung Kim, **Zane Ma**, Siddharth Murali, Joshua Mason, Andrew Miller, Michael Bailey"
-      conference: "IMC"
+      conference: "Internet Measurement Conference (IMC)"
       year:    "2018"
 
     - title:   "Understanding the Mirai Botnet"
@@ -55,9 +55,9 @@ talks:
       conference: "Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG): 42nd General Meeting"
       location: "San Francisco, CA"
       date: "2018-02-20"
-	  media: 
-	  	- name: "slides"
-		  url: "/slides/m3aawg_mirai.pdf"
+      media: 
+        - name: "slides"
+          url:  "/slides/m3aawg_mirai.pdf"
 
     - title: "Understanding the Mirai Botnet"
       date: "2017-11-08"
