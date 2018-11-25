@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" width="300px" align="right" %}
 
-I'm Zane, a 3rd year PhD student in the Computer Science department 
+I'm Zane, a 4th year PhD student in the Computer Science department 
 at the University of Illinois, Urbana-Champaign. 
 
 I am advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}
