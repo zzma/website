@@ -3,11 +3,23 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild"
+      author:  "Amin Kharraz, **Zane Ma**, Paul Murley, Charles Lever, Joshua Mason, Andrew Miller, Manos Antonakakis, Michael Bailey"
+      conference: "The Web Conference (WWW)"
+      year:    "2019"
+      url:     "/papers/www19_cryptojacking.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/www19_cryptojacking.bib"
 
     - title:   "Measuring Ethereum's Peer-to-Peer Network"
       author:  "Seoung Kim, **Zane Ma**, Siddharth Murali, Joshua Mason, Andrew Miller, Michael Bailey"
       conference: "Internet Measurement Conference (IMC)"
       year:    "2018"
+      url:     "/papers/imc18_ethpeers.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/imc18_ethpeers.bib"
 
     - title:   "Understanding the Mirai Botnet"
       author:  "Manos Antonakakis, Tim April, Michael Bailey, Matt Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric, J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, <b> Zane Ma* </b>, Joshua Mason, Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, Yi Zhou"
