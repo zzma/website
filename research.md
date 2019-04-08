@@ -60,6 +60,8 @@ pubs:
       media:
         - name: "bib"
           url:  "/papers/pst16_ics.bib"
+        - name: "slides"
+          url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
     - title: "Mirai and the Future of IoT Botnets"
