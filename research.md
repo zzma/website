@@ -11,6 +11,7 @@ pubs:
       media:
         - name: "bib"
           url:  "/papers/www19_cryptojacking.bib"
+      note: "Best paper award"
 
     - title:   "Measuring Ethereum's Peer-to-Peer Network"
       author:  "Seoung Kim, **Zane Ma**, Siddharth Murali, Joshua Mason, Andrew Miller, Michael Bailey"
@@ -97,7 +98,7 @@ talks:
 *{{pub.conference}}* *{{pub.year}}*
 {% if pub.media %}&nbsp;{% for article in pub.media %}[[{{article.name}}]({{article.url}}){:target="_blank"}]{% endfor %}{% endif %}<br />
 {{pub.author}}<br />
-{% if pub.note %} *({{pub.note}})*
+{% if pub.note %} __{{pub.note}}__
 {% endif %}
 {% endfor %}
 
