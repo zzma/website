@@ -11,6 +11,8 @@ pubs:
       media:
         - name: "bib"
           url:  "/papers/cset19_httpsphishing.bib"
+        - name: "slides"
+          url:  "/slides/cset-https-phishing-2019.pdf"
 
     - title:   "Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild"
       author:  "Amin Kharraz, **Zane Ma**, Paul Murley, Charles Lever, Joshua Mason, Andrew Miller, Manos Antonakakis, Michael Bailey"
