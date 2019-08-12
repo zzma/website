@@ -3,6 +3,15 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "The Impact of Secure Transport Protocols on Phishing Efficacy"
+      author:  "**Zane Ma**, Joshua Reynolds, Joseph Dickinson, Kaishen Wang, Taylor Judd, Joseph D. Barnes, Joshua Mason, Michael Bailey"
+      conference: "USENIX Workshop on Cyber Security Experimentation and Test (CSET)"
+      year:    "2019"
+      url:     "/papers/cset19_httpsphishing.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/cset19_httpsphishing.bib"
+
     - title:   "Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild"
       author:  "Amin Kharraz, **Zane Ma**, Paul Murley, Charles Lever, Joshua Mason, Andrew Miller, Manos Antonakakis, Michael Bailey"
       conference: "The Web Conference (WWW)"
