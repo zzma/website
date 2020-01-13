@@ -3,8 +3,14 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "Measuring Identity Confusion with Uniform Resource Locators"
+      author:  'Joshua Reynolds, Deepak Kumar, <span style="text-decoration: underline">Zane Ma</span>, Rohan Subramanian, Meishan Wu, Martin Shelton, Joshua Mason, Emily Stark, Michael Bailey'
+      conference: "To appear at ACM Conference on Human Factors in Computing Systems (CHI)"
+      year:    "2020"
+      url:     "#"
+
     - title:   "The Impact of Secure Transport Protocols on Phishing Efficacy"
-      author:  "**Zane Ma**, Joshua Reynolds, Joseph Dickinson, Kaishen Wang, Taylor Judd, Joseph D. Barnes, Joshua Mason, Michael Bailey"
+      author:  '<span style="text-decoration: underline">Zane Ma</span>, Joshua Reynolds, Joseph Dickinson, Kaishen Wang, Taylor Judd, Joseph D. Barnes, Joshua Mason, Michael Bailey'
       conference: "USENIX Workshop on Cyber Security Experimentation and Test (CSET)"
       year:    "2019"
       url:     "/papers/cset19_httpsphishing.pdf"
@@ -15,17 +21,17 @@ pubs:
           url:  "/slides/cset-https-phishing-2019.pdf"
 
     - title:   "Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild"
-      author:  "Amin Kharraz, **Zane Ma**, Paul Murley, Charles Lever, Joshua Mason, Andrew Miller, Manos Antonakakis, Michael Bailey"
+      author:  'Amin Kharraz, <span style="text-decoration: underline">Zane Ma</span>, Paul Murley, Charles Lever, Joshua Mason, Andrew Miller, Manos Antonakakis, Michael Bailey'
       conference: "The Web Conference (WWW)"
       year:    "2019"
       url:     "/papers/www19_cryptojacking.pdf"
       media:
         - name: "bib"
           url:  "/papers/www19_cryptojacking.bib"
-      note: "Best paper award"
+      note: "**Best paper award**"
 
     - title:   "Measuring Ethereum's Peer-to-Peer Network"
-      author:  "Seoung Kim, **Zane Ma**, Siddharth Murali, Joshua Mason, Andrew Miller, Michael Bailey"
+      author:  'Seoung Kim, <span style="text-decoration: underline">Zane Ma</span>, Siddharth Murali, Joshua Mason, Andrew Miller, Michael Bailey'
       conference: "Internet Measurement Conference (IMC)"
       year:    "2018"
       url:     "/papers/imc18_ethpeers.pdf"
@@ -34,7 +40,7 @@ pubs:
           url:  "/papers/imc18_ethpeers.bib"
 
     - title:   "Understanding the Mirai Botnet"
-      author:  "Manos Antonakakis, Tim April, Michael Bailey, Matt Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric, J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, <b> Zane Ma* </b>, Joshua Mason, Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, Yi Zhou"
+      author:  'Manos Antonakakis, Tim April, Michael Bailey, Matt Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric, J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, <span style="text-decoration: underline">Zane Ma*</span>, Joshua Mason, Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, Yi Zhou'
       conference: "USENIX Security"
       year:    "2017"
       url:     "/papers/usenix17_mirai.pdf"
@@ -45,9 +51,11 @@ pubs:
           url:  "/slides/mirai.pdf"
         - name: "talk"
           url:  "https://www.youtube.com/watch?v=1pywzRTJDaY"
+      note: "<i>* denotes primary/first author</i>"
+
 
     - title:   "The Security Impact of HTTPS Interception"
-      author:  "Zakir Durumeric, **Zane Ma**, Drew Springall, Richard Barnes, Nick Sullivan, Elie Bursztein, Michael Bailey, J. Alex Halderman, Vern Paxson"
+      author:  'Zakir Durumeric, <span style="text-decoration: underline">Zane Ma</span>, Drew Springall, Richard Barnes, Nick Sullivan, Elie Bursztein, Michael Bailey, J. Alex Halderman, Vern Paxson'
       conference: "Network and Distributed System Security Symposium (NDSS)"
       year:    "2017"
       url:     "/papers/ndss17_interception.pdf"
@@ -56,7 +64,7 @@ pubs:
           url:  "/papers/ndss17_interception.bib"
 
     - title:   "Security Challenges in an Increasingly Tangled Web"
-      author:  "Deepak Kumar, **Zane Ma**, Zakir Durumeric, Ariana Mirian, Joshua Mason, Michael Bailey, J. Alex Halderman"
+      author:  'Deepak Kumar, <span style="text-decoration: underline">Zane Ma</span>, Zakir Durumeric, Ariana Mirian, Joshua Mason, Michael Bailey, J. Alex Halderman'
       conference: "World Wide Web (WWW)"
       year:    "2017"
       url:     "/papers/www17_tangled.pdf"
@@ -65,7 +73,7 @@ pubs:
           url:  "/papers/www17_tangled.bib"
 
     - title:   "An Internet-wide View of ICS devices"
-      author:  "Ariana Mirian, **Zane Ma**, David Adrian, Matthew Tischer, Thasphon Chuenchujit, Tim Yardley, Robin Berthier, Josh Mason, Zakir Durumeric, J. Alex Halderman, Michael Bailey"
+      author:  'Ariana Mirian, <span style="text-decoration: underline">Zane Ma</span>, David Adrian, Matthew Tischer, Thasphon Chuenchujit, Tim Yardley, Robin Berthier, Josh Mason, Zakir Durumeric, J. Alex Halderman, Michael Bailey'
       conference: "Privacy, Security and Trust (PST)"
       year:    "2016"
       url:     "/papers/pst16_ics.pdf"
@@ -109,11 +117,10 @@ talks:
 *{{pub.conference}}* *{{pub.year}}*
 {% if pub.media %}&nbsp;{% for article in pub.media %}[[{{article.name}}]({{article.url}}){:target="_blank"}]{% endfor %}{% endif %}<br />
 {{pub.author}}<br />
-{% if pub.note %} __{{pub.note}}__
+{% if pub.note %} {{pub.note}}
 {% endif %}
 {% endfor %}
 
-<i>* denotes primary/first author</i>
 
 
 ### Invited Talks
