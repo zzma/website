@@ -7,7 +7,10 @@ pubs:
       author:  'Joshua Reynolds, Deepak Kumar, <span style="text-decoration: underline">Zane Ma</span>, Rohan Subramanian, Meishan Wu, Martin Shelton, Joshua Mason, Emily Stark, Michael Bailey'
       conference: "To appear at ACM Conference on Human Factors in Computing Systems (CHI)"
       year:    "2020"
-      url:     "#"
+      url:     "/papers/chi20_urlconfusion.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/chi20_urlconfusion.bib"
 
     - title:   "The Impact of Secure Transport Protocols on Phishing Efficacy"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, Joshua Reynolds, Joseph Dickinson, Kaishen Wang, Taylor Judd, Joseph D. Barnes, Joshua Mason, Michael Bailey'
