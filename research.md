@@ -5,7 +5,7 @@ title: Research
 pubs:
     - title:   "Measuring Identity Confusion with Uniform Resource Locators"
       author:  'Joshua Reynolds, Deepak Kumar, <span style="text-decoration: underline">Zane Ma</span>, Rohan Subramanian, Meishan Wu, Martin Shelton, Joshua Mason, Emily Stark, Michael Bailey'
-      conference: "To appear at ACM Conference on Human Factors in Computing Systems (CHI)"
+      conference: "ACM Conference on Human Factors in Computing Systems (CHI)"
       year:    "2020"
       url:     "/papers/chi20_urlconfusion.pdf"
       media:
@@ -87,6 +87,14 @@ pubs:
           url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
+    - title: "Fundamentals of Phishing: A Usability Perspective"
+      conference: "Security Seminar"
+      location: "University of California, San Diego"
+      date: "2020-04-20"
+      media:
+        - name: "slides"
+          url:  "/slides/ucsd_phishing.pdf"
+
     - title: "Mirai and the Future of IoT Botnets"
       url: ""
       conference: "Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG): 42nd General Meeting"
@@ -126,7 +134,7 @@ talks:
 
 
 
-### Invited Talks
+### Talks
 
 {% for talk in page.talks %}
 **{{talk.date}}**&nbsp;&nbsp;&nbsp;"{{talk.title}}." *{{talk.conference}}*. {{talk.location}}.

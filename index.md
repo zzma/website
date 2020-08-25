@@ -6,18 +6,15 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" width="300px" align="right" %}
 
-I'm Zane, a 5th year PhD student in the Computer Science department 
+I'm Zane, a 6th year PhD student in the Computer Science department 
 at the University of Illinois, Urbana-Champaign. 
 
 I am advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}
 as a member of the
 [Network & Security Research Group](http://nsrg.ece.illinois.edu/){:target="_blank"}. 
 
-My [research](/research/) focuses on 1) the security
-impact of IoT & ICS devices on the Internet and 2) the
-complex trust relationships between network entities. I am
-currently working on understanding and establishing **trust** 
-as a first-class property in secure networked systems.
+My [research](/research/) focuses on 1) usable, secure identity on the web through the web PKI and 2) the security
+impact of IoT & ICS devices on the Internet. I believe in building transparent networked systems that are auditable, measureable, and adaptable.
 
 ## Contact
 
