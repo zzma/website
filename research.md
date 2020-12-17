@@ -43,7 +43,7 @@ pubs:
           url:  "/papers/imc18_ethpeers.bib"
 
     - title:   "Understanding the Mirai Botnet"
-      author:  'Manos Antonakakis, Tim April, Michael Bailey, Matt Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric, J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, <span style="text-decoration: underline">Zane Ma*</span>, Joshua Mason, Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, Yi Zhou'
+      author:  '<span style="text-decoration: underline">Zane Ma</span>, Manos Antonakakis, Tim April, Michael Bailey, Matt Bernhard, Elie Bursztein, Jaime Cochran, Zakir Durumeric, J. Alex Halderman, Luca Invernizzi, Michalis Kallitsis, Deepak Kumar, Chaz Lever, Joshua Mason, Damian Menscher, Chad Seaman, Nick Sullivan, Kurt Thomas, Yi Zhou'
       conference: "USENIX Security"
       year:    "2017"
       url:     "/papers/usenix17_mirai.pdf"
@@ -54,7 +54,6 @@ pubs:
           url:  "/slides/mirai.pdf"
         - name: "talk"
           url:  "https://www.youtube.com/watch?v=1pywzRTJDaY"
-      note: "<i>* denotes primary/first author</i>"
 
 
     - title:   "The Security Impact of HTTPS Interception"
