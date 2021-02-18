@@ -3,6 +3,15 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "What's in a Name? Exploring CA Certificate Control"
+      author:  '<span style="text-decoration: underline">Zane Ma</span>, Joshua Mason, Manos Antonakakis, Zakir Durumeric, Michael Bailey'
+      conference: "USENIX Security"
+      year:    "2021"
+      url:     "/papers/usenix21_ca_operators.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/usenix21_ca_operators.bib"
+
     - title:   "Measuring Identity Confusion with Uniform Resource Locators"
       author:  'Joshua Reynolds, Deepak Kumar, <span style="text-decoration: underline">Zane Ma</span>, Rohan Subramanian, Meishan Wu, Martin Shelton, Joshua Mason, Emily Stark, Michael Bailey'
       conference: "ACM Conference on Human Factors in Computing Systems (CHI)"
