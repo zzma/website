@@ -12,6 +12,15 @@ pubs:
         - name: "bib"
           url:  "/papers/usenix21_ca_operators.bib"
 
+    - title:   "WebSocket Adoption and the Landscape of the Real-Time Web"
+      author:  'Deepak Kumar, <span style="text-decoration: underline">Zane Ma</span>, Joshua Mason, Michael Bailey, Amin Kharraz'
+      conference: "World Wide Web (WWW)"
+      year:    "2021"
+      url:     "/papers/www21_websockets.pdf"
+      media:
+        - name: "bib"
+          url:  "/papers/www21_websockets.bib"
+
     - title:   "Measuring Identity Confusion with Uniform Resource Locators"
       author:  'Joshua Reynolds, Deepak Kumar, <span style="text-decoration: underline">Zane Ma</span>, Rohan Subramanian, Meishan Wu, Martin Shelton, Joshua Mason, Emily Stark, Michael Bailey'
       conference: "ACM Conference on Human Factors in Computing Systems (CHI)"
