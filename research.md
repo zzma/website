@@ -11,6 +11,8 @@ pubs:
       media:
         - name: "bib"
           url:  "/papers/usenix21_ca_operators.bib"
+        - name: "slides"
+          url: "/slides/sec21_ca_operators.pdf"
 
     - title:   "WebSocket Adoption and the Landscape of the Real-Time Web"
       author:  'Paul Murley, <span style="text-decoration: underline">Zane Ma</span>, Joshua Mason, Michael Bailey, Amin Kharraz'
