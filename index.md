@@ -6,21 +6,21 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" width="300px" align="right" %}
 
-I'm Zane, a 6th year PhD student in the Computer Science department 
-at the University of Illinois, Urbana-Champaign. 
+I'm Zane, a postdoctoral researcher in the [Astrolavos Lab](https://astrolavos.gatech.edu/){:target="_blank"} and 
+[Center for Cyber Operations Enquiry and Unconventional Sensing (COEUS)](https://coeus.center/){:target="_blank"}
+at the Georgia Institute of Technology. I am advised by Dr. Manos Antonakakis.  
 
-I am advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}
-as a member of the
-[Network & Security Research Group](http://nsrg.ece.illinois.edu/){:target="_blank"}. 
+I received my Ph.D. in Computer Science at the University of Illinois at Urbana-Champaign, advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}.
 
-My [research](/research/) focuses on 1) usable, secure identity on the web through the web PKI and 2) the security
-impact of IoT & ICS devices on the Internet. I believe in building transparent networked systems that are auditable, measureable, and adaptable.
+
+My [research](/research/) focuses on a data-driven approach to computer security, with an emphasis on secure identity in networked systems. My current research examines TLS, CAs in the web PKI (web server authentication), user authentication, DNS names, and the usability of web server identity. My prior research characterized the rapidly evolving internet landscape—IoT botnets, cryptocurrency miners/abuse, ICS devices, and realtime web protocols.
+
 
 ## Contact
 
-445 Coordinated Science Laboratory <br />
-1308 West Main St.<br />
-Urbana, IL 61801 <br />
-Email: [zanema2@illinois.edu]
+Klaus Advanced Computing Building <br />
+266 Ferst Drive<br />
+Atlanta, GA 30313 <br />
+Email: [zanema@gatech.edu]
 
-[zanema2@illinois.edu]: mailto:zanema2@illinois.edu
+[zanema@gatech.edu]: mailto:zanema@gatech.edu

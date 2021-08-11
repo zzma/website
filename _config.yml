@@ -3,7 +3,7 @@ description: "Zane Ma"
 sourcecode: "https://github.com/zzma/website"
 
 permalink: blog/:year/:month/:day/:title
-exclude: ["Makefile", "README.md"]
+exclude: ["Makefile", "README.md", "vendor"]
 
 url: "https://zanema.com"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
