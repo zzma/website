@@ -3,6 +3,11 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "Tracing Your Roots: Exploring the TLS Trust Anchor Ecosystem"
+      author:  '<span style="text-decoration: underline">Zane Ma</span>, James Austgen, Joshua Mason, Zakir Durumeric, Michael Bailey'
+      conference: "To appear ACM Internet Measurement Conference (IMC)"
+      year:    "2021"
+
     - title:   "What's in a Name? Exploring CA Certificate Control"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, Joshua Mason, Manos Antonakakis, Zakir Durumeric, Michael Bailey'
       conference: "USENIX Security"
@@ -16,7 +21,7 @@ pubs:
 
     - title:   "WebSocket Adoption and the Landscape of the Real-Time Web"
       author:  'Paul Murley, <span style="text-decoration: underline">Zane Ma</span>, Joshua Mason, Michael Bailey, Amin Kharraz'
-      conference: "World Wide Web (WWW)"
+      conference: "The Web Conference (WWW)"
       year:    "2021"
       url:     "/papers/www21_websockets.pdf"
       media:
@@ -55,7 +60,7 @@ pubs:
 
     - title:   "Measuring Ethereum's Peer-to-Peer Network"
       author:  'Seoung Kim, <span style="text-decoration: underline">Zane Ma</span>, Siddharth Murali, Joshua Mason, Andrew Miller, Michael Bailey'
-      conference: "Internet Measurement Conference (IMC)"
+      conference: "ACM Internet Measurement Conference (IMC)"
       year:    "2018"
       url:     "/papers/imc18_ethpeers.pdf"
       media:
