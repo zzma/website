@@ -10,7 +10,7 @@ I'm Zane, a postdoctoral researcher in the [Astrolavos Lab](https://astrolavos.g
 [Center for Cyber Operations Enquiry and Unconventional Sensing (COEUS)](https://coeus.center/){:target="_blank"}
 at the Georgia Institute of Technology. I am advised by Dr. Manos Antonakakis.  
 
-I received my Ph.D. in Computer Science at the University of Illinois at Urbana-Champaign, advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}.
+I received my Ph.D. in Computer Science at the University of Illinois at Urbana-Champaign, advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}. My [dissertation](/papers/zane-dissertation.pdf) identified the trust relationships of the web PKI. 
 
 
 My [research](/research/) focuses on a data-driven approach to computer security, with an emphasis on secure identity in networked systems. My current research examines TLS, CAs in the web PKI (web server authentication), user authentication, DNS names, and the usability of web server identity. My prior research characterized the rapidly evolving internet landscape—IoT botnets, cryptocurrency miners/abuse, ICS devices, and realtime web protocols.

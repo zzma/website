@@ -6,7 +6,11 @@ pubs:
     - title:   "Tracing Your Roots: Exploring the TLS Trust Anchor Ecosystem"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, James Austgen, Joshua Mason, Zakir Durumeric, Michael Bailey'
       conference: "To appear ACM Internet Measurement Conference (IMC)"
+      url:     "/papers/imc21_roots.pdf"
       year:    "2021"
+      media:
+        - name: "bib"
+          url:  "/papers/imc21_roots.bib"
 
     - title:   "What's in a Name? Exploring CA Certificate Control"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, Joshua Mason, Manos Antonakakis, Zakir Durumeric, Michael Bailey'
@@ -113,6 +117,15 @@ pubs:
           url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
+    - title: "Understanding the Trust Relationships of the Web PKI"
+      conference: "Cybersecurity Lecture Series"
+      location: "Georgia Institute of Technology, Atlanta"
+      date: "2021-09-24"
+      # media:
+      #   - name: "slides"
+      #     url:  "/slides/ucsd_phishing.pdf"
+
+
     - title: "Fundamentals of Phishing: A Usability Perspective"
       conference: "Security Seminar"
       location: "University of California, San Diego"
