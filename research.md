@@ -121,7 +121,7 @@ pubs:
 talks:
     - title: "What's in a Name? Exploring CA Certificate Control"
       conference: "CA/Browser Forum"
-      location: "Georgia Institute of Technology, Atlanta"
+      location: "Virtual"
       date: "2021-10-13"
       media:
         - name: "slides"
