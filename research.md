@@ -11,6 +11,8 @@ pubs:
       media:
         - name: "bib"
           url:  "/papers/imc21_roots.bib"
+        - name: "slides"
+          url: "/slides/imc21_roots.pdf"
 
     - title:   "What's in a Name? Exploring CA Certificate Control"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, Joshua Mason, Manos Antonakakis, Zakir Durumeric, Michael Bailey'
@@ -117,13 +119,22 @@ pubs:
           url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
+    - title: "What's in a Name? Exploring CA Certificate Control"
+      conference: "CA/Browser Forum"
+      location: "Georgia Institute of Technology, Atlanta"
+      date: "2021-10-13"
+      media:
+        - name: "slides"
+          url:  "/slides/cab_forum_ca_transparency.pdf"
+
+
     - title: "Understanding the Trust Relationships of the Web PKI"
       conference: "Cybersecurity Lecture Series"
       location: "Georgia Institute of Technology, Atlanta"
       date: "2021-09-24"
-      # media:
-      #   - name: "slides"
-      #     url:  "/slides/ucsd_phishing.pdf"
+      media:
+        - name: "slides"
+          url:  "/slides/gt_lecture_trust.pdf"
 
 
     - title: "Fundamentals of Phishing: A Usability Perspective"
