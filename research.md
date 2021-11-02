@@ -13,6 +13,8 @@ pubs:
           url:  "/papers/imc21_roots.bib"
         - name: "slides"
           url: "/slides/imc21_roots.pdf"
+        - name: "talk"
+          url: "/videos/imc21-roots.mp4"
 
     - title:   "What's in a Name? Exploring CA Certificate Control"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, Joshua Mason, Manos Antonakakis, Zakir Durumeric, Michael Bailey'
