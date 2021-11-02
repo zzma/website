@@ -5,7 +5,7 @@ title: Research
 pubs:
     - title:   "Tracing Your Roots: Exploring the TLS Trust Anchor Ecosystem"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, James Austgen, Joshua Mason, Zakir Durumeric, Michael Bailey'
-      conference: "To appear ACM Internet Measurement Conference (IMC)"
+      conference: "ACM Internet Measurement Conference (IMC)"
       url:     "/papers/imc21_roots.pdf"
       year:    "2021"
       media:
