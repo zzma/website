@@ -121,6 +121,14 @@ pubs:
           url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
+    - title: "WebPKI and Trust"
+      conference: "Stanford CS249i Guest Lecture"
+      location: "Virtual"
+      date: "2021-11-10"
+      media:
+        - name: "slides"
+          url:  "/slides/CS249i-WebPKI.pdf"
+
     - title: "What's in a Name? Exploring CA Certificate Control"
       conference: "CA/Browser Forum"
       location: "Virtual"
