@@ -129,7 +129,7 @@ talks:
         - name: "slides"
           url:  "/slides/CS249i-WebPKI.pdf"
 
-    - title: "What's in a Name? Exploring CA Certificate Control"
+    - title: "Exploring CA Certificate Control"
       conference: "CA/Browser Forum"
       location: "Virtual"
       date: "2021-10-13"
