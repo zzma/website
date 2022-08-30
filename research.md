@@ -121,8 +121,24 @@ pubs:
           url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
+    - title: "Reflections on Trusting Identifiers: The Foundations of Social Engineering"
+      conference: "Stanford Security Seminar"
+      location: "Virtual"
+      date: "2022-07-27"
+      media:
+        - name: "slides"
+          url: "https://zanema.com/slides/stanford_se.pdf"
+
+    - title: "Tracing Your Roots: Exploring the TLS Trust Anchor Ecosystem"
+      conference: "Hot Topics in the Science of Security (HotSoS '22)"
+      location: "Virtual"
+      date: "2022-04-07"
+      media:
+        - name: "talk"
+          url: "https://cps-vo.org/node/82522"
+
     - title: "WebPKI and Trust"
-      conference: "Stanford CS249i Guest Lecture"
+      conference: 'Stanford <a href="https://cs249i.stanford.edu/">CS249i</a> Guest Lecture'
       location: "Virtual"
       date: "2021-11-10"
       media:
@@ -136,8 +152,7 @@ talks:
       media:
         - name: "slides"
           url:  "/slides/cab_forum_ca_transparency.pdf"
-
-
+        
     - title: "Understanding the Trust Relationships of the Web PKI"
       conference: "Cybersecurity Lecture Series"
       location: "Georgia Institute of Technology, Atlanta"
@@ -145,7 +160,8 @@ talks:
       media:
         - name: "slides"
           url:  "/slides/gt_lecture_trust.pdf"
-
+        - name: "talk"
+          url: "https://smartech.gatech.edu/bitstream/handle/1853/65375/ma_videostream.html?sequence=2&isAllowed=y"
 
     - title: "Fundamentals of Phishing: A Usability Perspective"
       conference: "Security Seminar"
