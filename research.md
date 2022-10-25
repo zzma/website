@@ -6,9 +6,11 @@ pubs:
     - title:   "View from Above: Exploring the Malware Ecosystem from the Upper DNS Hierarchy"
       author:  'Aaron Faulkenberry, Athanasios Avgetidis, <span style="text-decoration: underline">Zane Ma</span>, Omar Alrawi, Charles Lever, Panagiotis Kintis, Fabian Monrose, Angelos Keromytis, Manos Antonakakis'
       conference: "To appear: Annual Computer Security Applications Conference (ACSAC)"
-      url:     ""
+      url:     "/papers/acsac22_authdns.pdf"
       year:    "2022"
       media:
+        - name: "bib"
+          url:  "/papers/acsac22_authdns.bib"
         
     - title:   "Tracing Your Roots: Exploring the TLS Trust Anchor Ecosystem"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, James Austgen, Joshua Mason, Zakir Durumeric, Michael Bailey'
