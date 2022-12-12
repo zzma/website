@@ -6,9 +6,8 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" width="300px" align="right" %}
 
-I'm Zane, a postdoctoral researcher in the [Astrolavos Lab](https://astrolavos.gatech.edu/){:target="_blank"} and 
-[Center for Cyber Operations Enquiry and Unconventional Sensing (COEUS)](https://coeus.center/){:target="_blank"}
-at the Georgia Institute of Technology. I am advised by Dr. Manos Antonakakis.  
+I'm Zane, a research scientist at the Georgia Institute of Technology. I work with some great folks in the [Astrolavos Lab](https://astrolavos.gatech.edu/){:target="_blank"} and 
+[Center for Cyber Operations Enquiry and Unconventional Sensing (COEUS)](https://coeus.center/){:target="_blank"}.
 
 I received my Ph.D. in Computer Science at the University of Illinois at Urbana-Champaign, advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}. My [dissertation](/papers/zane-dissertation.pdf) identified the trust relationships of the web PKI. 
 
