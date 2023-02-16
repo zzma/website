@@ -5,7 +5,7 @@ title: Research
 pubs:
     - title:   "View from Above: Exploring the Malware Ecosystem from the Upper DNS Hierarchy"
       author:  'Aaron Faulkenberry, Athanasios Avgetidis, <span style="text-decoration: underline">Zane Ma</span>, Omar Alrawi, Charles Lever, Panagiotis Kintis, Fabian Monrose, Angelos Keromytis, Manos Antonakakis'
-      conference: "To appear: Annual Computer Security Applications Conference (ACSAC)"
+      conference: "Annual Computer Security Applications Conference (ACSAC)"
       url:     "/papers/acsac22_authdns.pdf"
       year:    "2022"
       media:
