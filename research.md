@@ -219,7 +219,7 @@ talks:
 
 
 
-### Invited Talks
+### Talks
 
 {% for talk in page.talks %}
 **{{talk.date}}**&nbsp;&nbsp;&nbsp;"{{talk.title}}." *{{talk.conference}}*. {{talk.location}}.

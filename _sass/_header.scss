@@ -9,6 +9,11 @@
 .site-header, .site-header a {
     color: $header-text-color;
 }
+
+a.site-title {
+    color: $header-hover-color;
+}
+
 .site-header a:hover {
     color: $header-hover-color;
     text-decoration: none;
