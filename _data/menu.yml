@@ -4,9 +4,9 @@
 - title: "CV"
   href: "/zane-ma-cv.pdf"
 
-- title: "Github"
-  href: "https://github.com/zzma"
-  newtab: "true"
+# - title: "Github"
+#   href: "https://github.com/zzma"
+#   newtab: "true"
 
 # - title: "Blog"
 #   href: "/blog/"

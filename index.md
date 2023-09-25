@@ -81,24 +81,23 @@ pubs:
           url:  "https://www.youtube.com/watch?v=1pywzRTJDaY"
 ---
 
-{% include image.html url="images/zane-headshot.jpg" caption="" width="250px" align="left" %}
+###  I am actively recruiting new graduate students! I have a few funded positions available. Please [drop me an email](mailto:zane.ma@oregonstate.edu) with your CV if you're interested in working with me. 
 
-I'm Zane, and I [research](/research/) computer and network security. I take a data-driven, systems approach to authentication and trust on today's internet. I strive to understand + build systems that allow computers and users to *reliably and securely authenticate information*. Applications of particular interest include HTTPS/TLS server authentication, client authentication, and data authenticity. My secondary research interest characterizes the security of new, rapidly evolving internet technologies: IoT botnets, cryptocurrency miners/abuse, ICS devices, and realtime web protocols.
 
-I'm currently a research scientist at the Georgia Institute of Technology. I work with some great folks in the [Astrolavos Lab](https://astrolavos.gatech.edu/){:target="_blank"} and 
-[Center for Cyber Operations Enquiry and Unconventional Sensing (COEUS)](https://coeus.center/){:target="_blank"}. 
 
-I received my Ph.D. in Computer Science at the University of Illinois at Urbana-Champaign, advised by [Michael Bailey](http://mdbailey.ece.illinois.edu/){:target="_blank"}. My [dissertation](/papers/zane-dissertation.pdf) identified the trust relationships of the web PKI. 
+{% include image.html url="images/zane-headshot.jpg" caption="" width="224px" align="left" %}
 
+I'm Zane, and I am an Assistant Professor teaching computer science at Oregon State University. My [research](/research/) takes a data-driven approach to authentication and trust on today's internet. I strive to understand + build systems that allow computers and users to *reliably and securely authenticate information*. Applications of particular interest include HTTPS/TLS server authentication, client authentication, and data authenticity. My secondary research interest analyzes the security of novel internet technologies: 5G networks, IoT botnets, cryptocurrency miners/abuse, etc.
+
+I previously worked with wonderful folks at [Georgia Tech](https://astrolavos.gatech.edu/){:target="_blank"}, and I received my Ph.D. at the University of Illinois at Urbana-Champaign, advised by [Michael Bailey](https://faculty.cc.gatech.edu/~mbailey/){:target="_blank"}. My [dissertation](/papers/zane-dissertation.pdf) identified the trust relationships of the web PKI. 
 
 ## Contact
 
-Klaus Advanced Computing Building <br />
-266 Ferst Drive<br />
-Atlanta, GA 30313 <br />
-Email: [zanema@gatech.edu]
+3079 Kelley Engineering Center <br />
+Corvallis, OR 97331 <br />
+Email: [zane.ma@oregonstate.edu]
 
-[zanema@gatech.edu]: mailto:zanema@gatech.edu
+[zane.ma@oregonstate.edu]: mailto:zane.ma@oregonstate.edu
 
 
 ## Select publications 
