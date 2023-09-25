@@ -235,6 +235,8 @@ GEM
     nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
+    nokogiri (1.13.10-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
     octokit (4.22.0)
@@ -273,14 +275,17 @@ GEM
       unf_ext
     unf_ext (0.0.8)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
     zeitwerk (2.5.4)
 
 PLATFORMS
   -darwin-20
+  arm64-darwin-22
   x86_64-linux
 
 DEPENDENCIES
   github-pages
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.2.25
