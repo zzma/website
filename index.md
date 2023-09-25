@@ -3,6 +3,15 @@ layout: page
 permalink: /
 
 pubs:     
+    - title:   "Stale TLS Certificates: Investigating Precarious Third-Party Access to Valid TLS Keys"
+      author:  '<span style="text-decoration: underline">Zane Ma</span>, Aaron Faulkenberry, Thomas Papastergiou, Zakir Durumeric, Michael D. Bailey, Angelos D. Keromytis, Fabian Monrose, Manos Antonakakis'
+      conference: "ACM Internet Measurement Conference (IMC)"
+      url:     "/papers/imc23_stale_certs.pdf"
+      year:    "2023"
+      media:
+        - name: "bib"
+          url:  "/papers/imc23_stale_certs.bib"
+
     - title:   "Tracing Your Roots: Exploring the TLS Trust Anchor Ecosystem"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, James Austgen, Joshua Mason, Zakir Durumeric, Michael Bailey'
       conference: "ACM Internet Measurement Conference (IMC)"
@@ -72,10 +81,8 @@ pubs:
           url:  "https://www.youtube.com/watch?v=1pywzRTJDaY"
 ---
 
-{% include image.html url="images/zane-headshot.jpg" caption="" width="250px" align="right" %}
+{% include image.html url="images/zane-headshot.jpg" caption="" width="250px" align="left" %}
 
-#### Beginning in September 2023, I will be joining Oregon State University's EECS department as an Assistant Professor. Please reach out if you are interested in working together!
-<br />
 I'm Zane, and I [research](/research/) computer and network security. I take a data-driven, systems approach to authentication and trust on today's internet. I strive to understand + build systems that allow computers and users to *reliably and securely authenticate information*. Applications of particular interest include HTTPS/TLS server authentication, client authentication, and data authenticity. My secondary research interest characterizes the security of new, rapidly evolving internet technologies: IoT botnets, cryptocurrency miners/abuse, ICS devices, and realtime web protocols.
 
 I'm currently a research scientist at the Georgia Institute of Technology. I work with some great folks in the [Astrolavos Lab](https://astrolavos.gatech.edu/){:target="_blank"} and 

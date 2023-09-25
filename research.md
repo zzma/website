@@ -3,6 +3,15 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "Stale TLS Certificates: Investigating Precarious Third-Party Access to Valid TLS Keys"
+      author:  '<span style="text-decoration: underline">Zane Ma</span>, Aaron Faulkenberry, Thomas Papastergiou, Zakir Durumeric, Michael D. Bailey, Angelos D. Keromytis, Fabian Monrose, Manos Antonakakis'
+      conference: "ACM Internet Measurement Conference (IMC)"
+      url:     "/papers/imc23_stale_certs.pdf"
+      year:    "2023"
+      media:
+        - name: "bib"
+          url:  "/papers/imc23_stale_certs.bib"
+
     - title:   "View from Above: Exploring the Malware Ecosystem from the Upper DNS Hierarchy"
       author:  'Aaron Faulkenberry, Athanasios Avgetidis, <span style="text-decoration: underline">Zane Ma</span>, Omar Alrawi, Charles Lever, Panagiotis Kintis, Fabian Monrose, Angelos Keromytis, Manos Antonakakis'
       conference: "Annual Computer Security Applications Conference (ACSAC)"
@@ -199,9 +208,7 @@ talks:
     
 ---
 
-### Publications
-
-[Google Scholar](https://scholar.google.com/citations?user=Qoy6za0AAAAJ&hl=en){:target="_blank"}
+### Publications ([Google Scholar](https://scholar.google.com/citations?user=Qoy6za0AAAAJ&hl=en){:target="_blank"})
 
 {% assign thumbnail="left" %}
 
