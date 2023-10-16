@@ -85,7 +85,7 @@ pubs:
 
 
 
-{% include image.html url="images/zane-headshot.jpg" caption="" width="224px" align="left" %}
+{% include image.html url="images/zane-osu-headshot-medium.jpg" caption="" width="224px" align="left" %}
 
 I'm Zane, and I am an Assistant Professor teaching computer science at Oregon State University. My [research](/research/) takes a data-driven approach to authentication and trust on today's internet. I strive to understand + build systems that allow computers and users to *reliably and securely authenticate information*. Applications of particular interest include HTTPS/TLS server authentication, client authentication, and data authenticity. My secondary research interest analyzes the security of novel internet technologies: 5G networks, IoT botnets, cryptocurrency miners/abuse, etc.
 
