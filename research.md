@@ -11,6 +11,8 @@ pubs:
       media:
         - name: "bib"
           url:  "/papers/imc23_stale_certs.bib"
+        - name: "slides"
+          url: "/slides/imc23_stale_certs.pdf"
 
     - title:   "View from Above: Exploring the Malware Ecosystem from the Upper DNS Hierarchy"
       author:  'Aaron Faulkenberry, Athanasios Avgetidis, <span style="text-decoration: underline">Zane Ma</span>, Omar Alrawi, Charles Lever, Panagiotis Kintis, Fabian Monrose, Angelos Keromytis, Manos Antonakakis'

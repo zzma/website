@@ -11,6 +11,8 @@ pubs:
       media:
         - name: "bib"
           url:  "/papers/imc23_stale_certs.bib"
+        - name: "slides"
+          url: "/slides/imc23_stale_certs.pdf"
 
     - title:   "Tracing Your Roots: Exploring the TLS Trust Anchor Ecosystem"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, James Austgen, Joshua Mason, Zakir Durumeric, Michael Bailey'
