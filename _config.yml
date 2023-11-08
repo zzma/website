@@ -32,21 +32,3 @@ analytics:
     # piwik:
     #     baseURL: '' # Piwik installation address (without protocol)
     #     idsite: ''  # the id of the site on Piwik
-
-# Settings for comments helper
-# Set 'provider' to the comment provider you want to use.
-# Set 'provider' to false to turn commenting off globally.
-#
-comments:
-    provider: false
-    disqus:
-      short_name:
-    livefyre:
-      site_id:
-    intensedebate:
-      account:
-    facebook:
-      appid:
-      num_posts: 5
-      width: 580
-      colorscheme: light

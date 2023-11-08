@@ -1,10 +1,41 @@
 ---
 layout: default
----
-<div class="post">
-    <header class="post-header">
-        <h2>{{ page.title }}</h2>
-    </header>
 
-    {{ content }}
+---
+
+<div class="post">
+    <div class="container">
+        <div class="row">
+          <div class="col-4 bio-column">
+            <h5></h5>
+            {% include image.html url="images/zane-osu-headshot-medium.jpg" caption="" width="224px" align="left" %}
+            
+            <b>Assistant Professor</b> <br>
+            <a href="https://oregonstate.edu" target="_blank">Oregon State University</a> <br>
+            <a href="https://engineering.oregonstate.edu/EECS" target="_blank">School of EECS</a> <br>
+            3079 Kelley Engineering Center <br />
+            Corvallis, OR 97331 <br />
+            <a href="mailto:zane.ma@oregonstate.edu">zane.ma@oregonstate.edu</a>
+            
+            <hr>
+            <h5>Teaching</h5>
+            <div class="teaching">
+                {% for class in site.data.classes %}
+                <div class="entry"><b>{{class.term}}:</b> <a href="{{class.link}}" target="_blank">{{class.listing}} - {{class.title}}</a><br></div>
+                {% endfor %}
+            </div>
+
+            <hr>
+            <h5>News</h5>
+            <div class="news">
+                {% for item in site.data.news %}
+                <div class="entry"><b>{{item.date}}:</b> {{item.event}}</div>
+                {% endfor %}
+            </div>
+          </div>
+          <div class="col-8 border-left">
+            {{ content }}
+          </div>
+        </div>
+      </div>  
 </div>

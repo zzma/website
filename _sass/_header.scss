@@ -6,10 +6,6 @@
     @extend %clearfix;
 }
 
-.site-header, .site-header a {
-    color: $header-text-color;
-}
-
 .site-title h2 {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -26,12 +22,6 @@ a.site-title {
     text-decoration: none;
 }
 
-
-.site-nav {
-    background: $background;
-    padding-top: 5px;
-}
-
 .site-nav ul {
     text-align: right;
     float: right;
@@ -41,8 +31,7 @@ a.site-title {
 
 .site-nav .menu > li {
     display: inline-block;
-    margin: 1em 0 0 0.75em;
-    padding: 0;
+    padding: 20px 10px 20px 10px;
     position: relative;
     vertical-align: middle;
 }
@@ -106,6 +95,10 @@ a.site-title {
 .site-nav {
     float: right;
 
+    ul {
+        margin-bottom: 0px;
+    }
+    
     .menu-icon {
         display: none;
     }
