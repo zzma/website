@@ -94,6 +94,7 @@ a.site-title {
 
 .site-nav {
     float: right;
+    background: $background;
 
     ul {
         margin-bottom: 0px;
@@ -123,8 +124,6 @@ a.site-title {
         .menu-icon {
             display: block;
             float: right;
-            width: 1.5em;
-            height: 1.25em;
             line-height: 0;
             padding-top: 10px;
             text-align: center;
