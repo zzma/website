@@ -3,7 +3,7 @@ pubs:
       author:  'Tillson Galloway, Kleanthis Karakolios, <span style="text-decoration: underline">Zane Ma</span>, Roberto Perdisci, Manos Antonakakis, Angelos Keromytis'
       conference: "IEEE Symposium on Security and Privacy (S&P)"
       url:     "/papers/sp24_dns_reputation_attacks.pdf"
-      unavailable: true
+      unavailable: false
       year:    "2024"
       media:
         - name: "bib"
