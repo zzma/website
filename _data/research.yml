@@ -156,13 +156,23 @@ pubs:
           url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
+    - title: "A Full Stack Hybrid 5G Testbed for Security Testing"
+      conference: "Linux ONE Summit"
+      location: "Seattle, WA"
+      date: "2022-11-22"
+      media:
+        - name: "slides"
+          url: "/slides/2022-11-15-LF_ONE_Summit.pdf"
+        - name: "video"
+          url: "https://www.youtube.com/watch?v=pBGLYEvUpU0"
+
     - title: "Reflections on Trusting Identifiers: The Foundations of Social Engineering"
       conference: "Stanford Security Seminar"
       location: "Virtual"
       date: "2022-07-27"
       media:
         - name: "slides"
-          url: "https://zanema.com/slides/stanford_se.pdf"
+          url: "/slides/stanford_se.pdf"
 
     - title: "Tracing Your Roots: Exploring the TLS Trust Anchor Ecosystem"
       conference: "Hot Topics in the Science of Security (HotSoS '22)"
