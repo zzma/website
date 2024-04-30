@@ -18,6 +18,43 @@ layout: default
             <a href="mailto:zane.ma@oregonstate.edu">zane.ma@oregonstate.edu</a>
             
             <hr>
+            <h5>Students</h5>
+            <div class="students">
+                PhD <span style="font-size: x-large;">🧙</span> 
+                <ul>
+                {% for student in site.data.students.phd %}
+                {% if student.website %}
+                <li><a href="{{student.website}}" target="_blank">{{student.name}}</a></li>
+                {% else %}
+                <li>{{student.name}}</li>
+                {% endif %}
+                {% endfor %}
+                </ul> 
+                Masters <span style="font-size: large;">🤓</span>
+                <ul>
+                {% for student in site.data.students.masters %}
+                {% if student.website %}
+                <li><a href="{{student.website}}" target="_blank">{{student.name}}</a></li>
+                {% else %}
+                <li>{{student.name}}</li>
+                {% endif %}
+                {% endfor %}
+                </ul> 
+                Undergrad <span style="font-size: larger;">🐣</span>
+                <ul>
+                {% for student in site.data.students.undergrad %}
+                {% if student.website %}
+                <li><a href="{{student.website}}" target="_blank">{{student.name}}</a></li>
+                {% else %}
+                <li>{{student.name}}</li>
+                {% endif %}
+                {% endfor %}
+                </ul> 
+
+            </div>
+
+
+            <hr>
             <h5>Teaching</h5>
             <div class="teaching">
                 {% for class in site.data.classes %}
