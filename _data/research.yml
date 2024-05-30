@@ -156,6 +156,14 @@ pubs:
           url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
+    - title: "Peeking into the web PKI: Uncovering the trust relationships that sustain web server authentication"
+      conference: '<a href="https://noise.cs.uchicago.edu/">NOISELab</a> seminar'
+      location: "Virtual"
+      date: "2022-11-22"
+      media:
+        - name: "slides"
+          url: "/slides/2022-11-15-LF_ONE_Summit.pdf"
+
     - title: "A Full Stack Hybrid 5G Testbed for Security Testing"
       conference: "Linux ONE Summit"
       location: "Seattle, WA"
