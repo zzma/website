@@ -1,4 +1,14 @@
-- term: 'Fall 2023'
+# - term: 'Winter 2024'
+#   listing: 'CS478/ECE478'
+#   title: 'Network Security'
+#   link: 'https://empirical-security.net/'
+
+- term: 'Fall 2024'
   listing: 'CS499/579'
   title: 'Empirical Computer Security'
   link: 'https://empirical-security.net/'
+
+- term: 'Fall 2023'
+  listing: 'CS499/579'
+  title: 'Empirical Computer Security'
+  link: 'https://empirical-security.net/archive/fall-2023/'

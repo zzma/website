@@ -7,7 +7,7 @@ pubs:
       year:    "2024"
       media:
         - name: "bib"
-          url:  ""    
+          url:  "/papers/sp24_dns_reputation_attacks.bib"    
     - title:   "Stale TLS Certificates: Investigating Precarious Third-Party Access to Valid TLS Keys"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, Aaron Faulkenberry, Thomas Papastergiou, Zakir Durumeric, Michael D. Bailey, Angelos D. Keromytis, Fabian Monrose, Manos Antonakakis'
       conference: "ACM Internet Measurement Conference (IMC)"
