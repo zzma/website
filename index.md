@@ -3,10 +3,14 @@ layout: page
 permalink: /
 ---
 
-<h4></h4>
-<b>  I am recruiting new Ph.D. students! I have a few funded positions available. Please [drop me an email](mailto:zane.ma@oregonstate.edu) with your CV if you're interested in working with me. </b>
+<p style="padding: 0.7em 1.0em; border-radius: 10px; background-color: #f8e1ce; margin-top: 1.2em;">
+<b>
+I am recruiting new Ph.D. students! I have a few funded positions available. <a href="mailto:zane.ma@oregonstate.edu">Drop me an email</a> with your CV if you're interested in working with me. Please include some indication that your email is not a mass email or AI-generated (the more creative the better!).
+</b>
+</p>
+
 <hr>
-I'm Zane, and I study <span class="underline"><b>network security and privacy</b></span>. My [research](/research/) seeks to understand and build systems for <b>authentication and trust</b> on the internet. Current areas of focus include DNS, HTTPS/TLS server authentication, client authentication, and data authenticity. I also analyze the security threats related to emerging network technologies: 5G networks, IoT botnets, cryptocurrency/blockchain abuse, etc.
+I'm Zane, and I study <span class="underline"><b>network security and privacy</b></span>. My [research](/research/) seeks to understand and build systems for <b>authentication and trust</b> on the internet. Current areas of focus include DNS, HTTPS/TLS server authentication, client authentication, and data authenticity. I have also analyzed the security threats related to emerging network technologies: 5G networks, IoT botnets, cryptocurrency/blockchain abuse, etc.
 
 
 #### Select publications ([All publications](/research))
