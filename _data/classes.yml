@@ -3,6 +3,11 @@
 #   title: 'Network Security'
 #   link: 'https://empirical-security.net/'
 
+- term: 'Winter 2025'
+  listing: 'CS/ECE 478'
+  title: 'Network Security'
+  link: 'https://net-sec.site/'
+
 - term: 'Fall 2024'
   listing: 'CS499/579'
   title: 'Empirical Computer Security'
