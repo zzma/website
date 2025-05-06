@@ -1,4 +1,14 @@
 pubs:
+    - title:   "Understanding Orphan Flows"
+      author:  'Kevin Sam Tharayil, Athanasios Avgetidis, <span style="text-decoration: underline">Zane Ma</span>, Manos Antonakakis, Angelos Keromytis'
+      conference: "Network Traffic Measurement and Analysis Conference (TMA)"
+      url:     "/papers/tma25_orphan_flows.pdf"
+      unavailable: true
+      year:    "2025"
+      media:
+        - name: "bib"
+          url:  "/papers/tma25_orphan_flows.bib"    
+
     - title:   "Practical Attacks against DNS Reputation Systems"
       author:  'Tillson Galloway, Kleanthis Karakolios, <span style="text-decoration: underline">Zane Ma</span>, Roberto Perdisci, Manos Antonakakis, Angelos Keromytis'
       conference: "IEEE Symposium on Security and Privacy (S&P)"
@@ -8,6 +18,7 @@ pubs:
       media:
         - name: "bib"
           url:  "/papers/sp24_dns_reputation_attacks.bib"    
+
     - title:   "Stale TLS Certificates: Investigating Precarious Third-Party Access to Valid TLS Keys"
       author:  '<span style="text-decoration: underline">Zane Ma</span>, Aaron Faulkenberry, Thomas Papastergiou, Zakir Durumeric, Michael D. Bailey, Angelos D. Keromytis, Fabian Monrose, Manos Antonakakis'
       conference: "ACM Internet Measurement Conference (IMC)"
