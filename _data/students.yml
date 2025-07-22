@@ -13,14 +13,8 @@ masters:
     website: https://www.derekrgreene.com
   - name: Andrew Le
     website:
-  - name: Alexis Deviney
-    website:
     
 undergrad:
-  - name: Ksenia Bannova 
-    website:
-  - name: Kevin Rossel
-    website: 
   - name: Jacob Porter
     website: 
 #  - name: Ethan Daon
@@ -31,4 +25,9 @@ undergrad:
 #    website:
 #  - name: Jacquelyn Sansone
 #    website:
-
+#  - name: Alexis Deviney
+#    website:
+#  - name: Ksenia Bannova 
+#    website:
+#  - name: Kevin Rossel
+#    website: 
