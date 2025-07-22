@@ -1,4 +1,13 @@
 pubs:
+    - title:   "From Concealment to Exposure: Understanding the Lifecycle and Infrastructure of APT Domains"
+      author:  'Athanasios Avgetidis, Aaron Faulkenberry, Boladji Vinny Adjibi, Tillson Galloway, Panagiotis Kintis, Omar Alrawi, <span style="text-decoration: underline">Zane Ma</span>, Angelos Keromytis, Fabian Monrose, Roberto Perdisci, Manos Antonakakis'
+      conference: "Research in Attacks, Intrusions and Defenses (RAID)"
+      url:     "/papers/raid25_apt_lifecycle.pdf"
+      year:    "2025"
+      media:
+        - name: "bib"
+          url:  "/papers/raid25_apt_lifecycle.bib"    
+
     - title:   "Understanding Orphan Flows"
       author:  'Kevin Sam Tharayil, Athanasios Avgetidis, <span style="text-decoration: underline">Zane Ma</span>, Manos Antonakakis, Angelos Keromytis'
       conference: "Network Traffic Measurement and Analysis Conference (TMA)"
