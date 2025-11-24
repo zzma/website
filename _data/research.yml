@@ -175,6 +175,14 @@ pubs:
           url:  "/slides/pst16_ics_slides.pdf"
 
 talks:
+    - title: "Stale TLS Certificates: Investigating Precarious Third-Party Access to Valid TLS Keys"
+      conference: 'CA/Browser Forum'
+      location: "Seattle, WA"
+      date: "2024-10-08"
+      media:
+        - name: "slides"
+          url: "/slides/cab_forum_stale_certs.pdf"
+
     - title: "Peeking into the web PKI: Uncovering the trust relationships that sustain web server authentication"
       conference: '<a href="https://noise.cs.uchicago.edu/">NOISELab</a> seminar'
       location: "Virtual"
