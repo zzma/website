@@ -58,7 +58,11 @@ layout: default
             <h5>Teaching</h5>
             <div class="teaching">
                 {% for class in site.data.classes %}
-                <div class="entry"><b>{{class.term}}:</b> <a href="{{class.link}}" target="_blank">{{class.listing}} - {{class.title}}</a><br></div>
+                <div class="entry"><b>{{class.name}}</b> <br>
+                    {% for term in class.terms %}
+                        <a href="{{term.link}}" target="_blank">{{term.date}}</a> &nbsp;
+                    {% endfor %}
+                <br></div>
                 {% endfor %}
             </div>
 
