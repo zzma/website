@@ -1,4 +1,22 @@
 pubs:
+    - title:   "DNS Trap: Unveiling Reactive DNS Monitoring via Stimulated Network Emissions"
+      author:  'Aaron Faulkenberry, Athanasios Avgetidis, Omar Alrawi, <span style="text-decoration: underline">Zane Ma</span>, Roberto Perdisci, Manos Antonakakis'
+      conference: "IEEE European Symposium on Security and Privacy (Euro S&P)"
+      url:     ""
+      year:    "2026"
+      media:
+        - name: "bib"
+          url:  "/papers/eurosp26_dns_trap.bib"
+
+    - title:   "WIP: Spurious Credentials in Breach Compilations"
+      author:  'Lucas Stephens, Jacob Porter, <span style="text-decoration: underline">Zane Ma</span>'
+      conference: "Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb)"
+      url:     "/papers/madweb26_spurious_creds.pdf"
+      year:    "2026"
+      media:
+        - name: "bib"
+          url:  "/papers/madweb26_spurious_creds.bib"
+
     - title:   "From Concealment to Exposure: Understanding the Lifecycle and Infrastructure of APT Domains"
       author:  'Athanasios Avgetidis, Aaron Faulkenberry, Boladji Vinny Adjibi, Tillson Galloway, Panagiotis Kintis, Omar Alrawi, <span style="text-decoration: underline">Zane Ma</span>, Angelos Keromytis, Fabian Monrose, Roberto Perdisci, Manos Antonakakis'
       conference: "Research in Attacks, Intrusions and Defenses (RAID)"
@@ -21,7 +39,6 @@ pubs:
       author:  'Tillson Galloway, Kleanthis Karakolios, <span style="text-decoration: underline">Zane Ma</span>, Roberto Perdisci, Manos Antonakakis, Angelos Keromytis'
       conference: "IEEE Symposium on Security and Privacy (S&P)"
       url:     "/papers/sp24_dns_reputation_attacks.pdf"
-      unavailable: false
       year:    "2024"
       media:
         - name: "bib"
