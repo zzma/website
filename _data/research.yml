@@ -9,6 +9,16 @@ preprints:
           url:  "/papers/dns_filename_confusion.bib"
 
 pubs:
+    
+    - title:   "New Trains, Same Rails: Fingerprinting Cryptocurrency Software via Network Requests"
+      author:  'Muhammad Muzammil, Oleksii Starov, <span style="text-decoration: underline">Zane Ma</span>, Nick Nikiforakis'
+      conference: "IFIP Networking Conference (IFIP Networking)"
+      url:     ""
+      year:    "2026"
+      media:
+        - name: "bib"
+          url:  "/papers/ifip26_web3_network_fingerprints.bib"
+
     - title:   "DNS Trap: Unveiling Reactive DNS Monitoring via Stimulated Network Emissions"
       author:  'Aaron Faulkenberry, Athanasios Avgetidis, Omar Alrawi, <span style="text-decoration: underline">Zane Ma</span>, Roberto Perdisci, Manos Antonakakis'
       conference: "IEEE European Symposium on Security and Privacy (Euro S&P)"
