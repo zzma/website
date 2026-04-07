@@ -1,3 +1,13 @@
+preprints: 
+    - title:   "Unpacking .zip: A First Look at Domain and File Name Confusion"
+      author:  'Predrag Despotovic, Pranab Mishra, Kevin Rossel, Athanasios Avgetidis, <span style="text-decoration: underline">Zane Ma</span>'
+      conference: "arXiv"
+      url:     "https://arxiv.org/abs/2604.04805"
+      year:    "2026"
+      media:
+        - name: "bib"
+          url:  "/papers/dns_filename_confusion.bib"
+
 pubs:
     - title:   "DNS Trap: Unveiling Reactive DNS Monitoring via Stimulated Network Emissions"
       author:  'Aaron Faulkenberry, Athanasios Avgetidis, Omar Alrawi, <span style="text-decoration: underline">Zane Ma</span>, Roberto Perdisci, Manos Antonakakis'

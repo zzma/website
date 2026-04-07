@@ -4,11 +4,32 @@ permalink: /research/
 title: Research
 ---
 
-#### Publications ([Google Scholar](https://scholar.google.com/citations?user=Qoy6za0AAAAJ&hl=en){:target="_blank"})
+### Publications ([Google Scholar](https://scholar.google.com/citations?user=Qoy6za0AAAAJ&hl=en){:target="_blank"})
 
 {% assign thumbnail="left" %}
 
 {% for pub in site.data.research.pubs %}
+{% if pub.image %}
+{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
+{% endif %}
+{%- if pub.unavailable %}
+**{{pub.title}}**<br />
+{%- else %}
+[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+{%- endif %}
+{{pub.author}}<br />
+{%- if pub.unavailable %}*To appear at*{% endif %} *{{pub.year}}* *{{pub.conference}}* 
+{% if pub.media %}&nbsp;{% for article in pub.media %}[[{{article.name}}]({{article.url}}){:target="_blank" .sublinks}]{% endfor %}<br>{% endif %}
+{% if pub.press %}Related: {% for article in pub.press %}[{{article.name}}]({{article.url}}){:target="_blank" .sublinks}{% endfor %}<br>{% endif %}
+{%- if pub.note -%}{{pub.note}} {%- endif -%}
+{% endfor %}
+
+
+### Preprints
+
+{% assign thumbnail="left" %}
+
+{% for pub in site.data.research.preprints %}
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
