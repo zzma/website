@@ -9,11 +9,16 @@ preprints:
           url:  "/papers/dns_filename_confusion.bib"
 
 pubs:
-    
+    - title:   "On the Resilience of Text-to-Video Diffusion Models to Hardware Faults"
+      author:  'Zachary Coalson, A M Aahad, Stella Doehring,  <span style="text-decoration: underline">Zane Ma</span>, Sanghyun Hong'
+      conference: "From Frames to Stories (F2S) Workshop @ ICML"
+      url:     ""
+      year:    "2026"
+
     - title:   "New Trains, Same Rails: Fingerprinting Cryptocurrency Software via Network Requests"
       author:  'Muhammad Muzammil, Oleksii Starov, <span style="text-decoration: underline">Zane Ma</span>, Nick Nikiforakis'
       conference: "IFIP Networking Conference (IFIP Networking)"
-      url:     ""
+      url:     "/papers/ifip26_web3_network_fingerprints.pdf"
       year:    "2026"
       media:
         - name: "bib"
