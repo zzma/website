@@ -13,8 +13,10 @@
       link: 'https://578.osu-security.com'
 - name: 'CS/ECE478: Network Security'
   terms:
+    - date: 'Fall 2026'
+      link: 'https://net-sec.site/'
     - date: 'Winter 2025'
-      link: 'https://net-sec.site'
+      link: 'https://net-sec.site/archive/winter-2025/'
 - name: 'CS499/579: Empirical Security'
   terms:
     - date: 'Fall 2024'

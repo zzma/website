@@ -9,11 +9,23 @@ preprints:
           url:  "/papers/dns_filename_confusion.bib"
 
 pubs:
+    - title:   "Vulnerability Trends across Open-Source AI-Attributed Code"
+      author:  'Clarisa Caballero-Ignacio, Lucas Stephens, Josiah Sage, Manish Motwani, <span style="text-decoration: underline">Zane Ma</span>'
+      conference: "Workshop on Explainable and Reliable Software Systems (EXPRESS) @ ISSTA"
+      url:     "/papers/express26_ai_code_vulns.pdf"
+      year:    "2026"
+      media:
+        - name: "bib"
+          url: "/papers/express26_ai_code_vulns.bib"
+
     - title:   "On the Resilience of Text-to-Video Diffusion Models to Hardware Faults"
       author:  'Zachary Coalson, A M Aahad, Stella Doehring,  <span style="text-decoration: underline">Zane Ma</span>, Sanghyun Hong'
       conference: "From Frames to Stories (F2S) Workshop @ ICML"
-      url:     ""
+      url:     "/papers/f2s26_video_diffusion_hardware_faults.pdf"
       year:    "2026"
+      media:
+        - name: "bib"
+          url: "/papers/f2s26_video_diffusion_hardware_faults.bib"
 
     - title:   "New Trains, Same Rails: Fingerprinting Cryptocurrency Software via Network Requests"
       author:  'Muhammad Muzammil, Oleksii Starov, <span style="text-decoration: underline">Zane Ma</span>, Nick Nikiforakis'
