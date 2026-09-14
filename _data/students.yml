@@ -1,21 +1,23 @@
 phd: 
-  - name: Peđa Despotovic
+  - name: Maybe you!
     website: 
 #  - name: Michelle Lewis
 #    website: https://engineering.oregonstate.edu/people/michelle-lewis
 
 masters:
-  - name: Lucas Stephens
-    website:
-  - name: Elliot Foley
-    website:
+  # - name: Lucas Stephens
+  #   website:
+  # - name: Elliot Foley
+  #   website:
   - name: Derek Greene
     website: https://www.derekrgreene.com
-  - name: Andrew Le
+  - name: Jacob Porter
     website:
+  - name: Peđa Despotovic
+    website: 
     
 undergrad:
-  - name: Jacob Porter
+  - name: Emily MacPherson
     website: 
 #  - name: Ethan Daon
 #    website: 
