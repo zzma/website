@@ -9,6 +9,12 @@ preprints:
           url:  "/papers/dns_filename_confusion.bib"
 
 pubs:
+    - title:   "Closing Enterprise Network Visibility Gaps Using LLM-Assisted IP Traffic Attribution"
+      author:  'Kevin Sam Tharayil, Evangelos Froudakis, <span style="text-decoration: underline">Zane Ma</span>, Angelos Keromytis'
+      conference: "International Conference on Risks and Security of Internet and Systems (CRiSIS)"
+      url:     ""
+      year:    "2026"
+
     - title:   "Vulnerability Trends across Open-Source AI-Attributed Code"
       author:  'Clarisa Caballero-Ignacio, Lucas Stephens, Josiah Sage, Manish Motwani, <span style="text-decoration: underline">Zane Ma</span>'
       conference: "Workshop on Explainable and Reliable Software Systems (EXPRESS) @ ISSTA"
